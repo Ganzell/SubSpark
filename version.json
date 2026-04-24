@@ -1,0 +1,22 @@
+{
+  "version": "1.0.2",
+  "changelog": [
+    "Добавлено обновление через Яндекс Диск"
+  ],
+  "assets": {
+    "win64": {
+      "provider": "yandex_disk",
+      "public_url": "https://disk.yandex.com.am/d/Gt8iubl3CPmkzA",
+      "filename": "SubSpark.zip",
+      "sha256": "",
+      "size": 0
+    },
+    "mac_arm64": {
+      "provider": "yandex_disk",
+      "public_url": "https://disk.yandex.com.am/d/oYDLjNDWtS6wdw",
+      "filename": "SubSpark.zip",
+      "sha256": "",
+      "size": 0
+    }
+  }
+}
